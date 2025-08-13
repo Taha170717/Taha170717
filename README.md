@@ -1,7 +1,5 @@
 <div align="center">
 
-![GitHub Banner](https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Muhammad%20Taha%20zafar&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Developer%20%26%20Creator&amp;descAlignY=60&amp;descAlign=50)
-
 
 ![Fire Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=32&amp;duration=2800&amp;pause=2000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=%F0%9F%94%A5%20AMAZING%20DEVELOPER%20%F0%9F%94%A5%3B%F0%9F%92%BB%20CODING%20WIZARD%20%F0%9F%92%BB%3B%F0%9F%9A%80%20OPEN%20SOURCE%20HERO%20%F0%9F%9A%80%3B%E2%9C%A8%20INNOVATION%20ENTHUSIAST%20%E2%9C%A8)
 
@@ -24,9 +22,6 @@
 
 ## 🌟 3D Contribution Graph
 
-<div align="center">
-
-![3D Contributions](https://github-readme-activity-graph.vercel.app/graph?username=Taha170717&amp;bg_color=00000000&amp;color=58a6ff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true&amp;theme=tokyonight&amp;custom_title=3D%20Contribution%20Graph)
 
 <!-- Alternative Contribution Graph -->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Taha170717&amp;bg_color=00000000&amp;color=58a6ff&amp;line=58a6ff&amp;point=58a6ff&amp;area=true&amp;hide_border=true&amp;theme=tokyonight)
@@ -41,32 +36,13 @@
 
 </div>
 
+<div align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Taha170717" alt="GitHub Streak" /></a></div>
+
+
 ## ⚙️ What I Do
 
 🌱 Growing developer excited about code and creativity. Building projects and learning something new every day.
 
-## 🏆 Profile Badges
-
-<div align="center">
-
-![Badge](https://img.shields.io/github/followers/Taha170717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=blue&label=👥%20Followers) ![Badge](https://img.shields.io/github/stars/Taha170717?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=yellow&label=⭐%20Stars) ![Badge](https://img.shields.io/badge/📅%20Since-2023-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-![Badge](https://img.shields.io/badge/📁%20Repos-14-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=101010) 
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Taha170717&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat&amp;labelColor=1c1917)
-
-</div>
-
-## 💭 Daily Programming Wisdom
-
-<div align="center">
-
-> **Make it work, make it right, make it fast.** ✨
-
-</div>
 
 ## ⚙️ Complete Tech Arsenal
 
@@ -141,41 +117,7 @@
 
 </div>
 
-## 🐍 Snake eating contributions
 
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<details>
-<summary>🔧 How to add YOUR Snake Animation</summary>
-
-1. Create a repository with the same name as your username (Taha170717)
-2. Add the GitHub Action from: https://github.com/Platane/snk
-3. The snake animation will be generated automatically with your contributions!
-4. After setup, regenerate your README to see your personal snake!
-
-</details>
-
-## 🎵 Music & Entertainment
-
-### 🎧 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-</div>
-
-### 🔥 Top Tracks This Week
-
-<div align="center">
-
-[![Top Tracks](https://spotify-recently-played-readme.vercel.app/api/spotify-recently-played)](https://open.spotify.com/user/YOUR_USERNAME)
-
-</div>
 
 ## 📊 Advanced Analytics
 
